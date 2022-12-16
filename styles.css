@@ -111,4 +111,6 @@ h2 {
     h2,.guide{
         width:fit-content;
     }
+    guide{
+        display: block;
 }
